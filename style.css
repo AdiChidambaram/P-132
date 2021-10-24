@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+
+button{
+    margin: 10px;
+    background-color: #BFF098;
+    border-radius: 10px;
+    width: 100px;
+    box-shadow: 10px 10px 10px #BFF098;
+}
+
+.back{
+    box-shadow: #BFF098;
+    width: 100%;
+    font-size:23px;
+}
